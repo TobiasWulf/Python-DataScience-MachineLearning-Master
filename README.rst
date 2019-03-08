@@ -43,5 +43,15 @@ Requirements
 ============
 
 * **conda install <package>**
-.. raw:: txt
-   :file: requirements.txt
+	* numpy
+	  scipy
+	  pandas
+	  sqlalchemy
+	  lxml
+	  html5lib
+	  beautifulsoup4
+	  matplotlib
+	  seaborn
+	  plotly
+	  cufflinks
+
