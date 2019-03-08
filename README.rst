@@ -43,4 +43,5 @@ Requirements
 ============
 
 * **conda install <package>**
-.. include:: requirements.txt
+.. raw:: txt
+   :file: requirements.txt
