@@ -1,0 +1,14 @@
+numpy
+scipy
+pandas
+sqlalchemy
+lxml
+html5lib
+beautifulsoup4
+matplotlib
+seaborn
+plotly
+cufflinks
+
+
+
