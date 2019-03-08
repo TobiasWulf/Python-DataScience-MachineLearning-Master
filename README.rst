@@ -1,3 +1,4 @@
+**********************************
 Python-DataScience-MachineLearning
 **********************************
 
@@ -17,7 +18,7 @@ Repository content (worked through)
 Useful links
 ============
 
-* **Web links which are named during the lecture:**
+* **Web links mentioned during the lecture:**
 	* `GitHub repository <https://github.com/datamics/Python-DataScience-MachineLearning>`_ by Dr. Brunner
 	* `Certification <https://support.udemy.com/hc/de/articles/229603868-Abschlussbescheinigung>`_ (if purchased)
 	* `Kaggle <https://www.kaggle.com/>`_ (data science platfrom, e.g. datasets)
@@ -36,6 +37,7 @@ Useful links
 
 * **Keep in mind:**
 	* reST `quick reference <http://docutils.sourceforge.net/docs/user/rst/quickref.html>`_
+	* reST and Sphinx `cheatsheet <https://thomas-cokelaer.info/tutorials/sphinx/rest_syntax.html>`_
 
 Requirements
 ============
