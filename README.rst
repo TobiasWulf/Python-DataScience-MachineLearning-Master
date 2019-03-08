@@ -5,7 +5,7 @@ Python-DataScience-MachineLearning
 * All resources of the udemy lecture "Python für Data Science und Machine Learning" by Dr. Brunner.
 
 Repository content (worked through)
-===================================
+###################################
 
 1. Python Crash Course
 2. Python for Data Analytics
@@ -16,7 +16,7 @@ Repository content (worked through)
 	1. Matplotlib
 
 Useful links
-============
+############
 
 * **Web links mentioned during the lecture:**
 	* `GitHub repository <https://github.com/datamics/Python-DataScience-MachineLearning>`_ by Dr. Brunner
@@ -40,7 +40,7 @@ Useful links
 	* reST and Sphinx `cheatsheet <https://thomas-cokelaer.info/tutorials/sphinx/rest_syntax.html>`_
 
 Requirements
-============
+############
 
 * **conda install <package>**
 	* numpy
