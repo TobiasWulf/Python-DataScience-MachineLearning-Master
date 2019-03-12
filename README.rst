@@ -48,7 +48,11 @@ Repository content (worked through)
 		7. Seaborn excercises
 		8. Seaborn excercises solutions
 	3. Pandas built-in data visualization
-		1. Built-in visualization (on going)
+		1. Built-in visualization
+		2. Excercises
+		3. Solutions
+	4. Plotly and Cufflinks
+		1. Plotly and Cufflinks (on going)
 
 Useful links
 ############
@@ -67,8 +71,10 @@ Useful links
 	* `Numpy <https://docs.scipy.org/doc/numpy/reference/index.html>`_
 	* `SciPy <https://docs.scipy.org/doc/scipy/reference/>`_
 	* `Pandas <http://pandas.pydata.org/pandas-docs/stable/>`_
-	* `Matplotlib <https://matplotlib.org/contents.html>`_ and `galery <https://matplotlib.org/gallery.html>`_
+	* `Matplotlib <https://matplotlib.org/contents.html>`_ and `galery <https://matplotlib.org/gallery.html>`_ with `style sheets <https://matplotlib.org/gallery.html#style_sheets>`_ etc.
 	* `Seaborn <http://seaborn.pydata.org/>`_, `figure asthetics <http://seaborn.pydata.org/tutorial/aesthetics.html>`_ and `color maps <https://matplotlib.org/examples/color/colormaps_reference.html>`_
+	* `Cufflinks <https://github.com/datamics/cufflinks>`_ cloned by Brunner with tutorials
+	* `Plotly (Python) <https://plot.ly/python/getting-started/>`_ with `galery <https://plot.ly/python/>`_ and `GitHub <https://github.com/plotly/plotly.py/blob/master/README.md>`_
 
 * **Keep in mind:**
 	* reST `quick reference <http://docutils.sourceforge.net/docs/user/rst/quickref.html>`_
