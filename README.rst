@@ -39,7 +39,16 @@ Repository content (worked through)
 		3. Matplotlib excercises
 		4. Matplotlib excercises solutions
 	2. Seaborn
-		1. Distribution plots (on going)
+		1. Distribution plots
+		2. Categorical plots
+		3. Matrix plots
+		4. Regression plots
+		5. Grids
+		6. Style and colormaps
+		7. Seaborn excercises
+		8. Seaborn excercises solutions
+	3. Pandas built-in data visualization
+		1. Built-in visualization (on going)
 
 Useful links
 ############
@@ -59,7 +68,7 @@ Useful links
 	* `SciPy <https://docs.scipy.org/doc/scipy/reference/>`_
 	* `Pandas <http://pandas.pydata.org/pandas-docs/stable/>`_
 	* `Matplotlib <https://matplotlib.org/contents.html>`_ and `galery <https://matplotlib.org/gallery.html>`_
-	* `Seaborn <http://seaborn.pydata.org/>`_
+	* `Seaborn <http://seaborn.pydata.org/>`_, `figure asthetics <http://seaborn.pydata.org/tutorial/aesthetics.html>`_ and `color maps <https://matplotlib.org/examples/color/colormaps_reference.html>`_
 
 * **Keep in mind:**
 	* reST `quick reference <http://docutils.sourceforge.net/docs/user/rst/quickref.html>`_
