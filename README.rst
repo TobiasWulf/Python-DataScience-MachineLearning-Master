@@ -57,6 +57,8 @@ Repository content (worked through)
 		1. Choropleth maps
 		2. Choropleth excercises
 		3. Choropleth excercises solutions
+4. Milestone project
+	1. 911 calls project - excercise (on going)
 
 Useful links
 ############
