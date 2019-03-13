@@ -66,7 +66,7 @@ Useful links
 	* `Certification <https://support.udemy.com/hc/de/articles/229603868-Abschlussbescheinigung>`_ (if purchased)
 	* `Kaggle <https://www.kaggle.com/>`_ (data science platfrom, e.g. datasets)
 	* `Anaconda <https://www.anaconda.com/distribution/>`_ (Python distribution)
-	* `Jupyter Lab <https://jupyter.org/>`_ (IPython Notebooks) and `Plotly <https://plot.ly/python/ipython-notebook-tutorial/>`_
+	* `Jupyter Lab <https://jupyter.org/>`_ (IPython Notebooks)
 	* `PyPI <https://pypi.org/>`_ (Python package index)
 	* Anaconda `public package search <https://anaconda.org/search>`_
 
@@ -78,7 +78,7 @@ Useful links
 	* `Matplotlib <https://matplotlib.org/contents.html>`_ and `galery <https://matplotlib.org/gallery.html>`_ with `style sheets <https://matplotlib.org/gallery.html#style_sheets>`_ etc.
 	* `Seaborn <http://seaborn.pydata.org/>`_, `figure asthetics <http://seaborn.pydata.org/tutorial/aesthetics.html>`_ and `color maps <https://matplotlib.org/examples/color/colormaps_reference.html>`_
 	* `Cufflinks <https://github.com/datamics/cufflinks>`_ cloned by Brunner with tutorials
-	* `Plotly (Python) <https://plot.ly/python/getting-started/>`_ with `galery <https://plot.ly/python/>`_ and `GitHub <https://github.com/plotly/plotly.py/blob/master/README.md>`_
+	* `Plotly (Python) <https://plot.ly/python/getting-started/>`_ with `galery <https://plot.ly/python/>`_ and `GitHub <https://github.com/plotly/plotly.py/blob/master/README.md>`_ using it `offline <https://plot.ly/python/offline/>`_ in a `Jupyter Notebook <https://plot.ly/python/ipython-notebook-tutorial/>`_. Here are the `color scales <https://plot.ly/python/colorscales/>`_
 
 * **Keep in mind:**
 	* reST `quick reference <http://docutils.sourceforge.net/docs/user/rst/quickref.html>`_
