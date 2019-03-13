@@ -52,7 +52,11 @@ Repository content (worked through)
 		2. Excercises
 		3. Solutions
 	4. Plotly and Cufflinks
-		1. Plotly and Cufflinks (on going)
+		1. Plotly and Cufflinks
+	5. Geographical plotting
+		1. Choropleth maps
+		2. Choropleth excercises
+		3. Choropleth excercises solutions
 
 Useful links
 ############
@@ -62,7 +66,7 @@ Useful links
 	* `Certification <https://support.udemy.com/hc/de/articles/229603868-Abschlussbescheinigung>`_ (if purchased)
 	* `Kaggle <https://www.kaggle.com/>`_ (data science platfrom, e.g. datasets)
 	* `Anaconda <https://www.anaconda.com/distribution/>`_ (Python distribution)
-	* `Jupyter Lab <https://jupyter.org/>`_ (IPython Notebooks)
+	* `Jupyter Lab <https://jupyter.org/>`_ (IPython Notebooks) and `Plotly <https://plot.ly/python/ipython-notebook-tutorial/>`_
 	* `PyPI <https://pypi.org/>`_ (Python package index)
 	* Anaconda `public package search <https://anaconda.org/search>`_
 
