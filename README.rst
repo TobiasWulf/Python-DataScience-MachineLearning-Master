@@ -58,7 +58,9 @@ Repository content (worked through)
 		2. Choropleth excercises
 		3. Choropleth excercises solutions
 4. Milestone project
-	1. 911 calls project - excercise (on going)
+	1. 911 calls project - excercise
+	2. 911 calls project - solutions
+	3. Finance data project - excercises (on going)
 
 Useful links
 ############
@@ -81,6 +83,7 @@ Useful links
 	* `Seaborn <http://seaborn.pydata.org/>`_, `figure asthetics <http://seaborn.pydata.org/tutorial/aesthetics.html>`_ and `color maps <https://matplotlib.org/examples/color/colormaps_reference.html>`_
 	* `Cufflinks <https://github.com/datamics/cufflinks>`_ cloned by Brunner with tutorials
 	* `Plotly (Python) <https://plot.ly/python/getting-started/>`_ with `galery <https://plot.ly/python/>`_ and `GitHub <https://github.com/plotly/plotly.py/blob/master/README.md>`_ using it `offline <https://plot.ly/python/offline/>`_ in a `Jupyter Notebook <https://plot.ly/python/ipython-notebook-tutorial/>`_. Here are the `color scales <https://plot.ly/python/colorscales/>`_
+	* `Pandas-Datareader <https://pydata.github.io/pandas-datareader/stable/>`_ 
 
 * **Keep in mind:**
 	* reST `quick reference <http://docutils.sourceforge.net/docs/user/rst/quickref.html>`_
@@ -101,4 +104,7 @@ Requirements
 	  seaborn
 	  plotly
 	  cufflinks
+	  requests
+	  wrapt
+	  pandas-datareader
 
