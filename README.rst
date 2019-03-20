@@ -60,7 +60,10 @@ Repository content (worked through)
 4. Milestone project
 	1. 911 calls project - excercise
 	2. 911 calls project - solutions
-	3. Finance data project - excercises (on going)
+	3. Finance data project - excercises
+	4. Finance data project - solutions
+5. Machine learning
+	1. Linear regression
 
 Useful links
 ############
